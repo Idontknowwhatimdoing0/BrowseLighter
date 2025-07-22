@@ -1,0 +1,6 @@
+H:\BrowseLighter\BrowseLighter\bin\Debug\BrowseLighter.exe.config
+H:\BrowseLighter\BrowseLighter\bin\Debug\BrowseLighter.exe
+H:\BrowseLighter\BrowseLighter\bin\Debug\BrowseLighter.pdb
+H:\BrowseLighter\BrowseLighter\obj\Debug\BrowseLighter.csprojResolveAssemblyReference.cache
+H:\BrowseLighter\BrowseLighter\obj\Debug\BrowseLighter.exe
+H:\BrowseLighter\BrowseLighter\obj\Debug\BrowseLighter.pdb
